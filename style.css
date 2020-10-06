@@ -1,0 +1,15 @@
+body {
+    margin:0px;
+    padding:0px;
+}
+
+main {
+    margin:100px auto;
+}
+
+main article {
+    display: flex;
+    margin:0px 30px;
+}
+
+main article h1 { text-align: center; }
